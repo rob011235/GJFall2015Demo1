@@ -118,8 +118,12 @@ PlayerSettings:
   iOSLaunchScreenBackgroundColor:
     serializedVersion: 2
     rgba: 0
+<<<<<<< HEAD
   iOSLaunchScreenFillPct: 100
   iOSLaunchScreenSize: 100
+=======
+  iOSLaunchScreenFillPct: 1
+>>>>>>> origin/master
   iOSLaunchScreenCustomXibPath: 
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 0
@@ -132,7 +136,10 @@ PlayerSettings:
   - width: 320
     height: 180
     banner: {fileID: 0}
+<<<<<<< HEAD
   androidGamepadSupportLevel: 0
+=======
+>>>>>>> origin/master
   resolutionDialogBanner: {fileID: 0}
   m_BuildTargetIcons:
   - m_BuildTarget: 
